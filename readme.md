@@ -27,8 +27,8 @@ This will open a VS Code environment in your browser with everything pre-install
 Inside the Codespace terminal (already open at the bottom):
 
 ```bash
-chmod +x run.sh
-./run.sh
+chmod +x script.sh
+./script.sh
 ```
 
 This will:
