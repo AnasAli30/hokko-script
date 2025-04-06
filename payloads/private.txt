@@ -1,0 +1,5 @@
+You don’t need to import private keys if you're using your own wallet — just paste the address into address.txt.
+
+If you generate a wallet using the script, it will automatically save your private key in private.txt.
+
+Don't forget to back up your keys after generation.
