@@ -92,11 +92,6 @@ Paste them into `proxy.txt`, one per line.
 
 ---
 
-
-## 📢 Join Our Telegram
-
-👉 [Join the Telegram Channel for more scripts and updates](https://t.me/CYpTo_HaCkEr)
-
 ---
 
 ## ☠️ Disclaimer
